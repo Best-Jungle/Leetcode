@@ -1,0 +1,13 @@
+package test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class test {
+	List list = new ArrayList(); 
+	ArrayList arrayList = new ArrayList();
+	//list.trimToSize();
+	arrayList.trimToSize();
+	
+
+}
