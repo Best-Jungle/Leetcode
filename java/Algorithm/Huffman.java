@@ -10,8 +10,9 @@ public class Huffman{
 		Huffman.put("E",9);
 		Huffman.put("F",11);
 		Huffman.put("H",12);
+		System.out.println("hello");
 	}
 	public void sort(Map Huffman){
-		leetcode
+
 	}
 }
